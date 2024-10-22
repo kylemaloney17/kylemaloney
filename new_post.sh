@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# to make a post use ./new_post.sh
 # Get the post title from the user
 echo "Enter the title of your blog post:"
 read title
